@@ -1,4 +1,4 @@
-![logo](https://github.com/Ratul01921/Shahriar-Ratul/blob/main/1719639833663.jpeg)
+![logo][(https://github.com/Ratul01921/Ratul01921/blob/main/1719639833663%20(1).jpeg)]
 
 <h1 align="center">Hi 👋, I'm Shahriar Ratul</h1>
 <h3 align="center">A passionate frontend Web developer from Bangladesh</h3>
